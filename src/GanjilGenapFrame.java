@@ -143,7 +143,7 @@ public class GanjilGenapFrame extends javax.swing.JFrame {
         
                 // Validasi input kosong
                 if (inputText.isEmpty()) {
-                    JOptionPane.showMessageDialog(null, "Masukkan angka terlebih dahulu!", "Error", JOptionPane.ERROR_MESSAGE);
+                    JOptionPane.showMessageDialog(null, "Masukkan angka terlebih dahulu!!", "Error", JOptionPane.ERROR_MESSAGE);
                     return;
                 }
         
